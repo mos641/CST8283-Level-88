@@ -1,7 +1,7 @@
       ******************************************************************
       * Author: Mostapha A
-      * Purpose: accept a gas value from the keyboard and display the correct rating value
-      * Compare full conditional statements and level 88 structures and condition names
+      * Purpose: Accept a gas value from the keyboard and display the correct rating value
+      * Compare full conditional statements versus level 88 structures and condition names
       ******************************************************************
 	   IDENTIFICATION DIVISION.
       *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
